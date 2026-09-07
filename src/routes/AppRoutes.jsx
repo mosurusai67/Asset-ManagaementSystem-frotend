@@ -6,8 +6,9 @@ import AddAsset from "../pages/AddAsset";
 import EditAsset from "../pages/EditAsset";
 import Favorites from "../pages/Favorites";
 import Home from "../pages/Home ";
-import Login from "../pages/Login";
-import Signup from "../pages/Signup";
+import Login from "../pages/login";
+import Signup from "../pages/signup";
+
 
 
 function AppRoutes() {

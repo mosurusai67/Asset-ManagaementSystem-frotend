@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import api from "../services/Api";
+import api from "../services/apilink";
 
 function EditAsset() {
   const { id } = useParams();
