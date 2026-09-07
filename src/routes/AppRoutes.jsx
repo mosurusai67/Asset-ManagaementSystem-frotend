@@ -5,7 +5,7 @@ import AssetDetails from "../pages/AssetDetails";
 import AddAsset from "../pages/AddAsset";
 import EditAsset from "../pages/EditAsset";
 import Favorites from "../pages/Favorites";
-import Home from "../pages/Home ";
+import Home from "../pages/Home";
 import Login from "../pages/Loginform";
 import Signup from "../pages/Signupform";
 
